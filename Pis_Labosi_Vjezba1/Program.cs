@@ -8,6 +8,7 @@ namespace Pis_Labosi_Vjezba1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!x2");
+            Console.WriteLine("Hello world!x3");
         }
     }
 }
